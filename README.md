@@ -1,0 +1,2 @@
+# librarycad
+移植LibraryCad库中Dxf文件读写功能到Android平台
